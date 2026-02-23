@@ -5,7 +5,6 @@ import logging
 from datetime import datetime
 from typing import Optional
 from concurrent.futures import ThreadPoolExecutor, as_completed
-
 import numpy as np
 import pandas as pd
 import pytz
@@ -14,6 +13,7 @@ import smtplib
 import urllib.request
 import urllib.parse
 import json
+
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
@@ -154,39 +154,6 @@ def load_watchlist(filepath: str = "watchlist.csv") -> list:
         logger.error(f"Failed to load watchlist: {e}")
         return []
 
-# ---------------------- EMAIL ----------------------
-
-def send_combined_email(alerts: list, email_settings: dict) -> bool:
-    if not alerts:
-        return False
-    try:
-        buy_alerts = [a for a in alerts if a["signal"] == "BUY"]
-        sell_alerts = [a for a in alerts if a["signal"] == "SELL"]
-
-        now_str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        body = f"OTT Strategy Summary\n\nTime: {now_str}\nTotal Signals: {len(alerts)}\n\n"
-
-        if buy_alerts:
-            body += "BUY Signals:\n" + "".join(f"• {a['symbol']} @ ₹{a['price']:.2f}\n" for a in buy_alerts) + "\n"
-        if sell_alerts:
-            body += "SELL Signals:\n" + "".join(f"• {a['symbol']} @ ₹{a['price']:.2f}\n" for a in sell_alerts)
-
-        msg = MIMEMultipart()
-        msg['From'] = email_settings['email']
-        msg['To'] = email_settings['recipient']
-        msg['Subject'] = f"[OTT] {len(alerts)} Signals | {datetime.now().strftime('%H:%M')}"
-        msg.attach(MIMEText(body, 'plain'))
-
-        with smtplib.SMTP("smtp.gmail.com", 587, timeout=10) as server:
-            server.starttls()
-            server.login(email_settings['email'], email_settings['password'])
-            server.sendmail(email_settings['email'], email_settings['recipient'], msg.as_string())
-
-        logger.info("Combined email sent successfully")
-        return True
-    except Exception as e:
-        logger.error(f"Email failed: {e}")
-        return False
 
 # ---------------------- TELEGRAM ----------------------
 
@@ -206,7 +173,7 @@ def send_telegram_alert(alerts: list, telegram_settings: dict) -> bool:
         buy_alerts  = [a for a in alerts if a["signal"] == "BUY"]
         sell_alerts = [a for a in alerts if a["signal"] == "SELL"]
 
-        now_str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        now_str = datetime.now(IST).strftime('%Y-%m-%d %H:%M:%S')
         lines = [
             f"📊 *OTT Strategy Alert*",
             f"🕐 `{now_str}`",
@@ -278,21 +245,9 @@ def main():
         logger.error("Watchlist is empty. Exiting.")
         return
 
-    email_settings = {
-        "email": os.environ.get("OTT_EMAIL", ""),
-        "password": os.environ.get("OTT_EMAIL_PASSWORD", ""),
-        "recipient": os.environ.get("OTT_RECIPIENT", ""),
-    }
-
-    if not all(email_settings.values()):
-        logger.warning(
-            "Email credentials not set. Set OTT_EMAIL, OTT_EMAIL_PASSWORD, "
-            "and OTT_RECIPIENT environment variables."
-        )
-
     telegram_settings = {
-        "bot_token": os.environ.get("OTT_TG_BOT_TOKEN", ""),
-        "chat_id": os.environ.get("OTT_TG_CHAT_ID", ""),
+        "bot_token": "8713704829:AAGdjDHvDa0PAVwhGc4MD7CAYNfHyvmx2uM",
+        "chat_id": "6463241927",
     }
 
     if not all(telegram_settings.values()):
@@ -336,7 +291,6 @@ def main():
                     logger.error(f"Unexpected error for {sym}: {e}")
 
         if combined_alerts:
-            send_combined_email(combined_alerts, email_settings)
             send_telegram_alert(combined_alerts, telegram_settings)
         else:
             logger.info("No signals this scan.")
