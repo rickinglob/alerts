@@ -11,6 +11,9 @@ import pandas as pd
 import pytz
 import yfinance as yf
 import smtplib
+import urllib.request
+import urllib.parse
+import json
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
@@ -185,6 +188,67 @@ def send_combined_email(alerts: list, email_settings: dict) -> bool:
         logger.error(f"Email failed: {e}")
         return False
 
+# ---------------------- TELEGRAM ----------------------
+
+def send_telegram_alert(alerts: list, telegram_settings: dict) -> bool:
+    """Send a combined Telegram message for all signals via the Bot API."""
+    if not alerts:
+        return False
+
+    bot_token = telegram_settings.get("bot_token", "")
+    chat_id = telegram_settings.get("chat_id", "")
+
+    if not bot_token or not chat_id:
+        logger.warning("Telegram credentials not set. Skipping Telegram alert.")
+        return False
+
+    try:
+        buy_alerts  = [a for a in alerts if a["signal"] == "BUY"]
+        sell_alerts = [a for a in alerts if a["signal"] == "SELL"]
+
+        now_str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        lines = [
+            f"📊 *OTT Strategy Alert*",
+            f"🕐 `{now_str}`",
+            f"Total Signals: *{len(alerts)}*",
+        ]
+
+        if buy_alerts:
+            lines.append("\n🟢 *BUY Signals:*")
+            lines += [f"  • `{a['symbol']}` @ ₹{a['price']:.2f}" for a in buy_alerts]
+
+        if sell_alerts:
+            lines.append("\n🔴 *SELL Signals:*")
+            lines += [f"  • `{a['symbol']}` @ ₹{a['price']:.2f}" for a in sell_alerts]
+
+        text = "\n".join(lines)
+
+        payload = json.dumps({
+            "chat_id": chat_id,
+            "text": text,
+            "parse_mode": "Markdown",
+        }).encode("utf-8")
+
+        url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+        req = urllib.request.Request(
+            url,
+            data=payload,
+            headers={"Content-Type": "application/json"},
+            method="POST",
+        )
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            result = json.loads(resp.read().decode())
+            if not result.get("ok"):
+                logger.error(f"Telegram API error: {result}")
+                return False
+
+        logger.info("Telegram alert sent successfully")
+        return True
+
+    except Exception as e:
+        logger.error(f"Telegram alert failed: {e}")
+        return False
+
 # ---------------------- SCAN ONE SYMBOL ----------------------
 
 def scan_symbol(symbol: str, ott_period: int, ott_percent: float) -> Optional[dict]:
@@ -226,6 +290,17 @@ def main():
             "and OTT_RECIPIENT environment variables."
         )
 
+    telegram_settings = {
+        "bot_token": os.environ.get("OTT_TG_BOT_TOKEN", ""),
+        "chat_id": os.environ.get("OTT_TG_CHAT_ID", ""),
+    }
+
+    if not all(telegram_settings.values()):
+        logger.warning(
+            "Telegram credentials not set. Set OTT_TG_BOT_TOKEN and "
+            "OTT_TG_CHAT_ID environment variables to enable Telegram alerts."
+        )
+
     ott_period = 5
     ott_percent = 1.5
     scan_interval = 900       # 15 minutes
@@ -262,6 +337,7 @@ def main():
 
         if combined_alerts:
             send_combined_email(combined_alerts, email_settings)
+            send_telegram_alert(combined_alerts, telegram_settings)
         else:
             logger.info("No signals this scan.")
 
