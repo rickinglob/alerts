@@ -1,0 +1,1062 @@
+2026-02-24 07:59:25,549 - INFO - Starting Swing Scanner...
+2026-02-24 08:03:08,582 - INFO - Starting Swing Scanner...
+2026-02-24 08:10:08,206 - INFO - Starting Swing Scanner...
+2026-02-24 08:10:09,533 - ERROR - ^BSESN failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,536 - ERROR - ADANIENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,539 - ERROR - ADANIGREEN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,542 - ERROR - ^NSEBANK failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,544 - ERROR - ^NSEI failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,547 - ERROR - ABB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,553 - ERROR - ADANIENSOL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,553 - ERROR - ADANIPORTS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,705 - ERROR - BAJAJHFL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,706 - ERROR - BAJAJ-AUTO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,715 - ERROR - ASIANPAINT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,716 - ERROR - APOLLOHOSP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,716 - ERROR - BAJAJFINSV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,725 - ERROR - AMBUJACEM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,727 - ERROR - ADANIPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,728 - ERROR - AXISBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,771 - ERROR - BHARTIARTL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,777 - ERROR - BPCL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,789 - ERROR - BANKBARODA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,790 - ERROR - BAJFINANCE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,811 - ERROR - BRITANNIA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,851 - ERROR - CHOLAFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,856 - ERROR - COALINDIA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,859 - ERROR - BEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,879 - ERROR - BAJAJHLDNG.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,951 - ERROR - DRREDDY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,955 - ERROR - DMART.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,985 - ERROR - CIPLA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:09,967 - ERROR - CGPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,016 - ERROR - DIVISLAB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,033 - ERROR - BOSCHLTD.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,082 - ERROR - GODREJCP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,093 - ERROR - ETERNAL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,093 - ERROR - EICHERMOT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,098 - ERROR - GAIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,163 - ERROR - DLF.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:10:10,163 - ERROR - CANBK.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:10:10,199 - ERROR - HINDALCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,208 - ERROR - HDFCLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,240 - ERROR - GRASIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,241 - ERROR - HAVELLS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,243 - ERROR - HCLTECH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,247 - ERROR - ENRIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,252 - ERROR - HDFCBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,254 - ERROR - HAL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,280 - ERROR - INFY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,290 - ERROR - ICICIGI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,299 - ERROR - HINDZINC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,305 - ERROR - HYUNDAI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,318 - ERROR - HINDUNILVR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,319 - ERROR - INDHOTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,320 - ERROR - ICICIBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,323 - ERROR - INDIGO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,372 - ERROR - JINDALSTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,372 - ERROR - JSWENERGY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,383 - ERROR - JSWSTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,386 - ERROR - IOC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,392 - ERROR - IRFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,397 - ERROR - KOTAKBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,400 - ERROR - JIOFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,462 - ERROR - LODHA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,469 - ERROR - M&M.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,470 - ERROR - LT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,480 - ERROR - MARUTI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,485 - ERROR - KWIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,489 - ERROR - LICI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,494 - ERROR - ITC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,495 - ERROR - LTIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,538 - ERROR - NESTLEIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,539 - ERROR - PFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,541 - ERROR - NTPC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,544 - ERROR - MOTHERSON.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,579 - ERROR - NAUKRI.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:10:10,582 - ERROR - RECLTD.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:10:10,589 - ERROR - ONGC.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:10:10,594 - ERROR - MAXHEALTH.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:10:10,596 - ERROR - PIDILITIND.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:10:10,599 - ERROR - POWERGRID.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:10:10,605 - ERROR - MAZDOCK.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:10:10,606 - ERROR - PNB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,640 - ERROR - SHREECEM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,651 - ERROR - SBILIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,656 - ERROR - RELIANCE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,658 - ERROR - SOLARINDS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,800 - ERROR - SIEMENS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,805 - ERROR - TATASTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,818 - ERROR - SBIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,819 - ERROR - TATAPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,825 - ERROR - SHRIRAMFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,831 - ERROR - TATACONSUM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,831 - ERROR - TCS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,832 - ERROR - SUNPHARMA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,881 - ERROR - TITAN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,886 - ERROR - TMPV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,903 - ERROR - TORNTPHARM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,909 - ERROR - UNITDSPR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,910 - ERROR - TRENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,938 - ERROR - TECHM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,950 - ERROR - TVSMOTOR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,959 - ERROR - WIPRO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,967 - ERROR - ULTRACEMCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,967 - ERROR - ZYDUSLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,968 - ERROR - VBL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,972 - ERROR - VEDL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:10:10,976 - INFO - No signals found.
+2026-02-24 08:13:12,728 - INFO - Starting Swing Scanner...
+2026-02-24 08:13:14,179 - ERROR - ^NSEBANK failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,182 - ERROR - ADANIPORTS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,185 - ERROR - ABB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,187 - ERROR - ^NSEI failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,190 - ERROR - ADANIGREEN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,193 - ERROR - ^BSESN failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,196 - ERROR - ADANIENSOL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,199 - ERROR - ADANIENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,365 - ERROR - BAJAJHFL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,367 - ERROR - APOLLOHOSP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,368 - ERROR - ASIANPAINT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,368 - ERROR - BAJAJ-AUTO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,372 - ERROR - AXISBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,387 - ERROR - BAJAJFINSV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,391 - ERROR - AMBUJACEM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,391 - ERROR - ADANIPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,428 - ERROR - BHARTIARTL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,439 - ERROR - BPCL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,445 - ERROR - BAJFINANCE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,450 - ERROR - BOSCHLTD.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,453 - ERROR - BANKBARODA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,484 - ERROR - BAJAJHLDNG.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,532 - ERROR - COALINDIA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,569 - ERROR - CANBK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,577 - ERROR - DLF.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,580 - ERROR - CIPLA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,586 - ERROR - CHOLAFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,592 - ERROR - CGPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,594 - ERROR - DIVISLAB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,697 - ERROR - BEL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:14,698 - ERROR - BRITANNIA.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:14,698 - ERROR - ETERNAL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:14,699 - ERROR - DMART.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:14,700 - ERROR - DRREDDY.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:14,700 - ERROR - GAIL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:14,700 - ERROR - EICHERMOT.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:14,701 - ERROR - ENRIN.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:14,786 - ERROR - HINDALCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,792 - ERROR - HDFCBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,792 - ERROR - GRASIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,805 - ERROR - HAVELLS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,806 - ERROR - HCLTECH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,807 - ERROR - HDFCLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,829 - ERROR - ICICIBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,848 - ERROR - ICICIGI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,852 - ERROR - HAL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,857 - ERROR - HYUNDAI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,863 - ERROR - GODREJCP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,876 - ERROR - HINDUNILVR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,877 - ERROR - HINDZINC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,883 - ERROR - INDHOTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,920 - ERROR - IOC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,925 - ERROR - IRFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,931 - ERROR - INDIGO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:14,936 - ERROR - JIOFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,022 - ERROR - JSWENERGY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,041 - ERROR - KOTAKBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,041 - ERROR - ITC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,042 - ERROR - JINDALSTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,045 - ERROR - KWIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,049 - ERROR - INFY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,086 - ERROR - LICI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,098 - ERROR - MARUTI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,104 - ERROR - M&M.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,104 - ERROR - MAXHEALTH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,108 - ERROR - LODHA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,114 - ERROR - LTIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,122 - ERROR - LT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,127 - ERROR - JSWSTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,178 - ERROR - MOTHERSON.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,187 - ERROR - ONGC.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:15,188 - ERROR - MAZDOCK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,193 - ERROR - PFC.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:15,294 - ERROR - RELIANCE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,303 - ERROR - NTPC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,305 - ERROR - PIDILITIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,309 - ERROR - NESTLEIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,318 - ERROR - NAUKRI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,324 - ERROR - RECLTD.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,324 - ERROR - POWERGRID.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,328 - ERROR - PNB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,367 - ERROR - SHREECEM.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:15,373 - ERROR - SIEMENS.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:15,382 - ERROR - SHRIRAMFIN.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:15,386 - ERROR - SOLARINDS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,388 - ERROR - TATACONSUM.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:15,389 - ERROR - SUNPHARMA.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:15,391 - ERROR - SBIN.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:15,392 - ERROR - SBILIFE.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:13:15,445 - ERROR - TRENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,455 - ERROR - TATAPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,468 - ERROR - TCS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,468 - ERROR - TORNTPHARM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,473 - ERROR - TECHM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,473 - ERROR - TITAN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,473 - ERROR - TATASTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,474 - ERROR - TMPV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,515 - ERROR - ZYDUSLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,523 - ERROR - UNITDSPR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,531 - ERROR - VEDL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,531 - ERROR - ULTRACEMCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,544 - ERROR - VBL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,549 - ERROR - TVSMOTOR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,554 - ERROR - WIPRO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:13:15,569 - INFO - No signals found.
+2026-02-24 08:17:41,242 - INFO - Starting Swing Scanner...
+2026-02-24 08:17:42,751 - ERROR - ADANIPORTS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:42,754 - ERROR - ^NSEI failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:42,757 - ERROR - ADANIENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:42,760 - ERROR - ^NSEBANK failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:42,764 - ERROR - ^BSESN failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:42,768 - ERROR - ADANIGREEN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:42,772 - ERROR - ABB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:42,776 - ERROR - ADANIENSOL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:42,983 - ERROR - APOLLOHOSP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:42,984 - ERROR - AXISBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:42,987 - ERROR - ASIANPAINT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:42,998 - ERROR - ADANIPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:42,998 - ERROR - BAJAJHFL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,002 - ERROR - AMBUJACEM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,007 - ERROR - BAJAJ-AUTO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,013 - ERROR - BAJAJFINSV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,216 - ERROR - BOSCHLTD.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,217 - ERROR - BEL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,217 - ERROR - BRITANNIA.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,217 - ERROR - BAJFINANCE.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,218 - ERROR - BANKBARODA.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,219 - ERROR - BPCL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,219 - ERROR - BAJAJHLDNG.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,220 - ERROR - BHARTIARTL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,349 - ERROR - CHOLAFIN.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,351 - ERROR - DMART.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,353 - ERROR - DLF.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,354 - ERROR - DIVISLAB.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,356 - ERROR - COALINDIA.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,359 - ERROR - CANBK.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,360 - ERROR - CGPOWER.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,361 - ERROR - CIPLA.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,383 - ERROR - ETERNAL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,392 - ERROR - DRREDDY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,401 - ERROR - ENRIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,477 - ERROR - GAIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,482 - ERROR - HDFCBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,488 - ERROR - GODREJCP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,489 - ERROR - HAL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,493 - ERROR - GRASIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,499 - ERROR - HAVELLS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,499 - ERROR - HCLTECH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,500 - ERROR - EICHERMOT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,578 - ERROR - INDHOTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,589 - ERROR - HDFCLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,594 - ERROR - HINDZINC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,600 - ERROR - ICICIBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,601 - ERROR - HYUNDAI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,607 - ERROR - ICICIGI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,612 - ERROR - HINDALCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,617 - ERROR - HINDUNILVR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,681 - ERROR - JSWENERGY.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,691 - ERROR - IOC.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,693 - ERROR - INFY.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,694 - ERROR - JINDALSTEL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:43,694 - ERROR - JIOFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,699 - ERROR - INDIGO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,824 - ERROR - LT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,837 - ERROR - ITC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,841 - ERROR - KOTAKBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,841 - ERROR - IRFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,848 - ERROR - LODHA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,851 - ERROR - JSWSTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,883 - ERROR - MOTHERSON.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,944 - ERROR - KWIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,958 - ERROR - LTIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,958 - ERROR - LICI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,964 - ERROR - MAXHEALTH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,968 - ERROR - M&M.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,972 - ERROR - MAZDOCK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,976 - ERROR - MARUTI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,989 - ERROR - NAUKRI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:43,996 - ERROR - NESTLEIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,059 - ERROR - RELIANCE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,075 - ERROR - PFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,079 - ERROR - PNB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,080 - ERROR - ONGC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,084 - ERROR - PIDILITIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,134 - ERROR - SIEMENS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,152 - ERROR - SBIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,152 - ERROR - RECLTD.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,163 - ERROR - POWERGRID.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,173 - ERROR - SHRIRAMFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,178 - ERROR - SBILIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,178 - ERROR - SHREECEM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,186 - ERROR - NTPC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,281 - ERROR - SOLARINDS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,291 - ERROR - TECHM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,297 - ERROR - SUNPHARMA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,303 - ERROR - TATASTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,305 - ERROR - TATACONSUM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,309 - ERROR - TATAPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,312 - ERROR - TITAN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,320 - ERROR - TCS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,368 - ERROR - VEDL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,372 - ERROR - VBL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,374 - ERROR - TVSMOTOR.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:44,375 - ERROR - TORNTPHARM.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:44,379 - ERROR - ULTRACEMCO.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:44,380 - ERROR - TRENT.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:44,381 - ERROR - UNITDSPR.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:44,383 - ERROR - TMPV.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:17:44,445 - ERROR - ZYDUSLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,449 - ERROR - WIPRO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:17:44,450 - INFO - No signals found.
+2026-02-24 08:18:17,345 - INFO - Starting Swing Scanner...
+2026-02-24 08:18:18,848 - ERROR - ABB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:18,851 - ERROR - ^NSEBANK failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:18,854 - ERROR - ADANIPORTS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:18,854 - ERROR - ADANIGREEN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:18,857 - ERROR - ADANIENSOL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:18,862 - ERROR - ADANIENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:18,865 - ERROR - ^BSESN failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:18,868 - ERROR - ^NSEI failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,084 - ERROR - AMBUJACEM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,105 - ERROR - BAJAJFINSV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,105 - ERROR - BAJAJHFL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,109 - ERROR - APOLLOHOSP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,114 - ERROR - ADANIPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,115 - ERROR - AXISBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,141 - ERROR - BAJAJHLDNG.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,146 - ERROR - BEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,150 - ERROR - BHARTIARTL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,185 - ERROR - BOSCHLTD.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,198 - ERROR - BRITANNIA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,202 - ERROR - ASIANPAINT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,211 - ERROR - BAJAJ-AUTO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,211 - ERROR - CGPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,369 - ERROR - DIVISLAB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,374 - ERROR - BANKBARODA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,376 - ERROR - CHOLAFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,381 - ERROR - CIPLA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,394 - ERROR - BAJFINANCE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,399 - ERROR - COALINDIA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,399 - ERROR - CANBK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,406 - ERROR - BPCL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,435 - ERROR - DMART.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,443 - ERROR - DRREDDY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,452 - ERROR - GODREJCP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,460 - ERROR - ENRIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,464 - ERROR - DLF.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,488 - ERROR - HAVELLS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,495 - ERROR - GAIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,504 - ERROR - GRASIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,512 - ERROR - HDFCBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,523 - ERROR - ETERNAL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,524 - ERROR - EICHERMOT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,524 - ERROR - HCLTECH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,606 - ERROR - HAL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,609 - ERROR - HINDUNILVR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,617 - ERROR - HDFCLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,621 - ERROR - HINDZINC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,621 - ERROR - HINDALCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,621 - ERROR - HYUNDAI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,626 - ERROR - ICICIGI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,631 - ERROR - ICICIBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,689 - ERROR - INDIGO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,728 - ERROR - IOC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,737 - ERROR - JSWENERGY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,738 - ERROR - INFY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,744 - ERROR - JINDALSTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,747 - ERROR - JIOFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,751 - ERROR - ITC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,756 - ERROR - IRFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,799 - ERROR - LICI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,802 - ERROR - INDHOTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,818 - ERROR - KOTAKBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,819 - ERROR - KWIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,819 - ERROR - LTIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,822 - ERROR - LODHA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,823 - ERROR - LT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,831 - ERROR - JSWSTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,885 - ERROR - M&M.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,889 - ERROR - MAZDOCK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,889 - ERROR - MOTHERSON.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,893 - ERROR - MARUTI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,897 - ERROR - MAXHEALTH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,902 - ERROR - NAUKRI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,908 - ERROR - NTPC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,913 - ERROR - NESTLEIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,953 - ERROR - SBILIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,966 - ERROR - POWERGRID.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,969 - ERROR - PNB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,969 - ERROR - PIDILITIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,978 - ERROR - RELIANCE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,982 - ERROR - ONGC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,985 - ERROR - PFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:19,986 - ERROR - RECLTD.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,032 - ERROR - SHRIRAMFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,052 - ERROR - SUNPHARMA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,139 - ERROR - SBIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,144 - ERROR - TATASTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,147 - ERROR - TCS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,148 - ERROR - TATACONSUM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,152 - ERROR - SIEMENS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,213 - ERROR - TITAN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,214 - ERROR - SOLARINDS.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:18:20,219 - ERROR - TMPV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,222 - ERROR - TATAPOWER.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:18:20,226 - ERROR - SHREECEM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,227 - ERROR - TORNTPHARM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,232 - ERROR - TECHM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,302 - ERROR - TRENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,313 - ERROR - ZYDUSLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,319 - ERROR - TVSMOTOR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,324 - ERROR - WIPRO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,331 - ERROR - UNITDSPR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,335 - ERROR - VEDL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,339 - ERROR - VBL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,344 - ERROR - ULTRACEMCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:18:20,361 - INFO - No signals found.
+2026-02-24 08:22:40,319 - INFO - Starting Swing Scanner...
+2026-02-24 08:22:41,677 - ERROR - ADANIGREEN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,680 - ERROR - ADANIENSOL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,685 - ERROR - ADANIPORTS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,686 - ERROR - ABB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,689 - ERROR - ADANIENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,689 - ERROR - ^NSEBANK failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,692 - ERROR - ^BSESN failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,696 - ERROR - ^NSEI failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,840 - ERROR - BAJAJHFL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,854 - ERROR - BAJAJFINSV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,854 - ERROR - APOLLOHOSP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,859 - ERROR - BAJAJ-AUTO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,864 - ERROR - ASIANPAINT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,889 - ERROR - BANKBARODA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,915 - ERROR - AXISBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,945 - ERROR - ADANIPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,950 - ERROR - BAJAJHLDNG.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:41,951 - ERROR - BEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,036 - ERROR - BRITANNIA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,057 - ERROR - CGPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,057 - ERROR - CANBK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,057 - ERROR - BPCL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,057 - ERROR - BOSCHLTD.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,108 - ERROR - DIVISLAB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,114 - ERROR - DLF.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,114 - ERROR - CIPLA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,118 - ERROR - CHOLAFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,126 - ERROR - COALINDIA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,172 - ERROR - ETERNAL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:22:42,172 - ERROR - AMBUJACEM.NS failed: Length of values (744) does not match length of index (248)
+2026-02-24 08:22:42,173 - ERROR - BHARTIARTL.NS failed: Length of values (744) does not match length of index (248)
+2026-02-24 08:22:42,174 - ERROR - BAJFINANCE.NS failed: Length of values (744) does not match length of index (248)
+2026-02-24 08:22:42,264 - ERROR - HAL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,268 - ERROR - DMART.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,271 - ERROR - DRREDDY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,277 - ERROR - GODREJCP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,278 - ERROR - GAIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,286 - ERROR - GRASIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,290 - ERROR - EICHERMOT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,290 - ERROR - ENRIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,345 - ERROR - HYUNDAI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,345 - ERROR - HDFCLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,346 - ERROR - HINDUNILVR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,356 - ERROR - HCLTECH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,357 - ERROR - HDFCBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,359 - ERROR - HAVELLS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,362 - ERROR - HINDALCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,366 - ERROR - HINDZINC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,405 - ERROR - ICICIGI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,417 - ERROR - INFY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,425 - ERROR - IOC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,427 - ERROR - ITC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,431 - ERROR - INDIGO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,440 - ERROR - INDHOTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,444 - ERROR - IRFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,445 - ERROR - ICICIBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,472 - ERROR - KWIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,481 - ERROR - LODHA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,486 - ERROR - JINDALSTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,496 - ERROR - KOTAKBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,517 - ERROR - JIOFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,521 - ERROR - LICI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,618 - ERROR - JSWENERGY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,627 - ERROR - MAXHEALTH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,627 - ERROR - M&M.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,647 - ERROR - LT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,648 - ERROR - LTIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,649 - ERROR - JSWSTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,649 - ERROR - MAZDOCK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,654 - ERROR - MARUTI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,681 - ERROR - PFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,694 - ERROR - ONGC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,699 - ERROR - PIDILITIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,707 - ERROR - MOTHERSON.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,710 - ERROR - NAUKRI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,715 - ERROR - PNB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,756 - ERROR - SHREECEM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,765 - ERROR - POWERGRID.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,768 - ERROR - NTPC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,775 - ERROR - RELIANCE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,775 - ERROR - SBIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,778 - ERROR - SBILIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,783 - ERROR - NESTLEIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,790 - ERROR - RECLTD.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,840 - ERROR - SHRIRAMFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,848 - ERROR - TCS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,849 - ERROR - TATAPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,853 - ERROR - TATACONSUM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,858 - ERROR - TATASTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,867 - ERROR - SIEMENS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,872 - ERROR - SOLARINDS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,872 - ERROR - SUNPHARMA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,900 - ERROR - TECHM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,904 - ERROR - TITAN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,910 - ERROR - TVSMOTOR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,932 - ERROR - TMPV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,935 - ERROR - TRENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,940 - ERROR - ULTRACEMCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,946 - ERROR - UNITDSPR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,949 - ERROR - TORNTPHARM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,986 - ERROR - ZYDUSLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,986 - ERROR - WIPRO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,993 - ERROR - VEDL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,997 - ERROR - VBL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:22:42,998 - INFO - No signals found.
+2026-02-24 08:25:01,312 - INFO - Starting Swing Scanner...
+2026-02-24 08:25:04,881 - ERROR - ^BSESN failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:04,884 - ERROR - ^NSEI failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:04,889 - ERROR - ADANIENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:04,895 - ERROR - ADANIGREEN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:04,901 - ERROR - ADANIENSOL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:04,902 - ERROR - ^NSEBANK failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:04,906 - ERROR - ABB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:04,909 - ERROR - ADANIPORTS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,123 - ERROR - ASIANPAINT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,133 - ERROR - ADANIPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,134 - ERROR - BAJAJFINSV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,139 - ERROR - AMBUJACEM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,143 - ERROR - BAJAJHFL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,198 - ERROR - BHARTIARTL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,222 - ERROR - APOLLOHOSP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,226 - ERROR - BAJAJ-AUTO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,230 - ERROR - AXISBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,234 - ERROR - BAJFINANCE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,237 - ERROR - BANKBARODA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,240 - ERROR - BAJAJHLDNG.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,356 - ERROR - BEL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:25:05,401 - ERROR - CHOLAFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,413 - ERROR - COALINDIA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,416 - ERROR - BPCL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,420 - ERROR - CANBK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,426 - ERROR - CGPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,430 - ERROR - BOSCHLTD.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,430 - ERROR - BRITANNIA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,489 - ERROR - ENRIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,511 - ERROR - CIPLA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,514 - ERROR - ETERNAL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,528 - ERROR - DLF.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,552 - ERROR - DMART.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,554 - ERROR - DRREDDY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,555 - ERROR - DIVISLAB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,559 - ERROR - GRASIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,671 - ERROR - HDFCBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,676 - ERROR - HCLTECH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,679 - ERROR - GODREJCP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,683 - ERROR - GAIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,686 - ERROR - HAL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,690 - ERROR - EICHERMOT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,693 - ERROR - HDFCLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,696 - ERROR - HAVELLS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,750 - ERROR - HINDUNILVR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,756 - ERROR - INDHOTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,763 - ERROR - HINDZINC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,763 - ERROR - ICICIGI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,768 - ERROR - HYUNDAI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,771 - ERROR - ICICIBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,774 - ERROR - HINDALCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,777 - ERROR - INDIGO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,814 - ERROR - INFY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,819 - ERROR - JINDALSTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,827 - ERROR - IOC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,838 - ERROR - IRFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,844 - ERROR - JSWSTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,845 - ERROR - JIOFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,847 - ERROR - JSWENERGY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,918 - ERROR - KOTAKBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,921 - ERROR - LTIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,928 - ERROR - LICI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,932 - ERROR - LT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,938 - ERROR - LODHA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,942 - ERROR - ITC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,942 - ERROR - M&M.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,982 - ERROR - NTPC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:05,988 - ERROR - MARUTI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,000 - ERROR - MOTHERSON.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,000 - ERROR - MAZDOCK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,002 - ERROR - NAUKRI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,008 - ERROR - MAXHEALTH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,012 - ERROR - KWIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,069 - ERROR - RELIANCE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,072 - ERROR - ONGC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,076 - ERROR - NESTLEIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,077 - ERROR - PNB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,081 - ERROR - RECLTD.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,084 - ERROR - POWERGRID.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,084 - ERROR - PIDILITIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,149 - ERROR - SBIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,155 - ERROR - SBILIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,160 - ERROR - PFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,165 - ERROR - SUNPHARMA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,221 - ERROR - TATAPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,229 - ERROR - SHRIRAMFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,230 - ERROR - SHREECEM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,234 - ERROR - SIEMENS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,238 - ERROR - TCS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,240 - ERROR - TATACONSUM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,246 - ERROR - TATASTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,246 - ERROR - SOLARINDS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,272 - ERROR - TRENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,278 - ERROR - UNITDSPR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,304 - ERROR - TITAN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,304 - ERROR - TMPV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,307 - ERROR - TVSMOTOR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,313 - ERROR - TORNTPHARM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,316 - ERROR - ULTRACEMCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,317 - ERROR - TECHM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,356 - ERROR - ZYDUSLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,364 - ERROR - VEDL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,372 - ERROR - WIPRO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,376 - ERROR - VBL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:25:06,378 - INFO - No signals found.
+2026-02-24 08:26:32,780 - INFO - Starting Swing Scanner...
+2026-02-24 08:26:34,153 - ERROR - ADANIENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,154 - ERROR - ABB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,157 - ERROR - ^NSEBANK failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,162 - ERROR - ADANIENSOL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,165 - ERROR - ^BSESN failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,173 - ERROR - ^NSEI failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,174 - ERROR - ADANIGREEN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,178 - ERROR - ADANIPORTS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,374 - ERROR - BAJAJ-AUTO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,375 - ERROR - ASIANPAINT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,380 - ERROR - BAJAJFINSV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,383 - ERROR - AXISBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,386 - ERROR - BAJAJHFL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,389 - ERROR - APOLLOHOSP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,393 - ERROR - ADANIPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,396 - ERROR - AMBUJACEM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,454 - ERROR - BAJAJHLDNG.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,462 - ERROR - BRITANNIA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,468 - ERROR - BAJFINANCE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,482 - ERROR - BEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,485 - ERROR - BOSCHLTD.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,496 - ERROR - BANKBARODA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,497 - ERROR - BHARTIARTL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,497 - ERROR - CANBK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,544 - ERROR - CIPLA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,559 - ERROR - DLF.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,560 - ERROR - CHOLAFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,592 - ERROR - BPCL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,595 - ERROR - DMART.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,599 - ERROR - COALINDIA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,599 - ERROR - DIVISLAB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,603 - ERROR - CGPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,609 - ERROR - EICHERMOT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,639 - ERROR - ETERNAL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,647 - ERROR - ENRIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,655 - ERROR - HAL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,667 - ERROR - HAVELLS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,668 - ERROR - GAIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,672 - ERROR - GODREJCP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,677 - ERROR - GRASIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,678 - ERROR - DRREDDY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,702 - ERROR - HCLTECH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,709 - ERROR - HDFCBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,714 - ERROR - HDFCLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,768 - ERROR - HINDUNILVR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,771 - ERROR - HINDZINC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,772 - ERROR - INDHOTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,780 - ERROR - ICICIBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,785 - ERROR - HYUNDAI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,813 - ERROR - IRFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,819 - ERROR - IOC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,831 - ERROR - HINDALCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,831 - ERROR - ICICIGI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,853 - ERROR - INFY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,886 - ERROR - JSWSTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,903 - ERROR - JINDALSTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,907 - ERROR - INDIGO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,910 - ERROR - KOTAKBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,913 - ERROR - KWIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,921 - ERROR - ITC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,921 - ERROR - JSWENERGY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:34,994 - ERROR - LODHA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,019 - ERROR - LTIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,024 - ERROR - JIOFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,027 - ERROR - LICI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,032 - ERROR - MAXHEALTH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,033 - ERROR - MARUTI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,037 - ERROR - M&M.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,042 - ERROR - LT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,067 - ERROR - MAZDOCK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,074 - ERROR - PIDILITIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,078 - ERROR - NESTLEIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,133 - ERROR - PFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,134 - ERROR - NAUKRI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,139 - ERROR - PNB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,144 - ERROR - RECLTD.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,144 - ERROR - MOTHERSON.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,151 - ERROR - ONGC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,151 - ERROR - POWERGRID.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,159 - ERROR - NTPC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,202 - ERROR - RELIANCE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,205 - ERROR - SUNPHARMA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,230 - ERROR - SIEMENS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,232 - ERROR - SBIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,240 - ERROR - SHRIRAMFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,244 - ERROR - SHREECEM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,244 - ERROR - SOLARINDS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,248 - ERROR - SBILIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,275 - ERROR - TATASTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,283 - ERROR - TITAN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,284 - ERROR - TATAPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,368 - ERROR - TRENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,371 - ERROR - TMPV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,375 - ERROR - TECHM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,378 - ERROR - TCS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,380 - ERROR - ULTRACEMCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,383 - ERROR - TVSMOTOR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,386 - ERROR - TATACONSUM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,390 - ERROR - TORNTPHARM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,417 - ERROR - VEDL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,424 - ERROR - ZYDUSLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,429 - ERROR - UNITDSPR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,438 - ERROR - WIPRO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,439 - ERROR - VBL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:26:35,441 - INFO - No signals found.
+2026-02-24 08:27:32,909 - INFO - Starting Swing Scanner...
+2026-02-24 08:27:34,253 - ERROR - ADANIGREEN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,256 - ERROR - ^NSEBANK failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,260 - ERROR - ADANIPORTS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,263 - ERROR - ^BSESN failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,269 - ERROR - ^NSEI failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,273 - ERROR - ADANIENSOL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,280 - ERROR - ADANIENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,280 - ERROR - ABB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,407 - ERROR - AXISBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,413 - ERROR - ADANIPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,426 - ERROR - ASIANPAINT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,426 - ERROR - BAJAJ-AUTO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,437 - ERROR - AMBUJACEM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,451 - ERROR - BAJAJHFL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,451 - ERROR - BAJAJFINSV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,452 - ERROR - APOLLOHOSP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,502 - ERROR - BEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,534 - ERROR - BRITANNIA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,543 - ERROR - BOSCHLTD.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,547 - ERROR - BANKBARODA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,628 - ERROR - CHOLAFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,633 - ERROR - CANBK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,641 - ERROR - CIPLA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,641 - ERROR - CGPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,718 - ERROR - DLF.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,729 - ERROR - DMART.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,739 - ERROR - DIVISLAB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,743 - ERROR - BAJFINANCE.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:27:34,745 - ERROR - BHARTIARTL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:27:34,746 - ERROR - BAJAJHLDNG.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:27:34,750 - ERROR - COALINDIA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,754 - ERROR - DRREDDY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,754 - ERROR - BPCL.NS failed: Length of values (744) does not match length of index (248)
+2026-02-24 08:27:34,789 - ERROR - GRASIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,796 - ERROR - EICHERMOT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,807 - ERROR - ENRIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,833 - ERROR - GAIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,859 - ERROR - ETERNAL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,865 - ERROR - HAVELLS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,882 - ERROR - HAL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,888 - ERROR - GODREJCP.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,946 - ERROR - HDFCLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,962 - ERROR - HINDZINC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,963 - ERROR - ICICIBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,971 - ERROR - HINDALCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,973 - ERROR - HDFCBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,983 - ERROR - HYUNDAI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,985 - ERROR - HINDUNILVR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,986 - ERROR - HCLTECH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:34,996 - ERROR - INFY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,026 - ERROR - JINDALSTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,040 - ERROR - INDHOTEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,046 - ERROR - JIOFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,051 - ERROR - ICICIGI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,054 - ERROR - IRFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,060 - ERROR - IOC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,063 - ERROR - INDIGO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,096 - ERROR - LODHA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,109 - ERROR - JSWSTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,112 - ERROR - JSWENERGY.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,128 - ERROR - LT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,145 - ERROR - MAXHEALTH.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,155 - ERROR - MARUTI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,161 - ERROR - ITC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,161 - ERROR - LTIM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,170 - ERROR - KWIL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,174 - ERROR - LICI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,179 - ERROR - KOTAKBANK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,182 - ERROR - M&M.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,275 - ERROR - PIDILITIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,279 - ERROR - NTPC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,289 - ERROR - NESTLEIND.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,290 - ERROR - ONGC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,298 - ERROR - MOTHERSON.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,302 - ERROR - MAZDOCK.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,302 - ERROR - PFC.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,310 - ERROR - NAUKRI.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,351 - ERROR - SHRIRAMFIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,355 - ERROR - SBIN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,360 - ERROR - RELIANCE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,363 - ERROR - SBILIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,367 - ERROR - RECLTD.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,370 - ERROR - PNB.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,373 - ERROR - SHREECEM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,379 - ERROR - POWERGRID.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,435 - ERROR - TATAPOWER.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,442 - ERROR - TECHM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,451 - ERROR - TATASTEEL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,454 - ERROR - TCS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,458 - ERROR - SOLARINDS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,462 - ERROR - TATACONSUM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,464 - ERROR - SUNPHARMA.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,468 - ERROR - SIEMENS.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,562 - ERROR - VBL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,565 - ERROR - TVSMOTOR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,572 - ERROR - TORNTPHARM.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,576 - ERROR - UNITDSPR.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,584 - ERROR - TITAN.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,589 - ERROR - ULTRACEMCO.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,592 - ERROR - TRENT.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,597 - ERROR - TMPV.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,637 - ERROR - WIPRO.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:27:35,639 - ERROR - ZYDUSLIFE.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,660 - ERROR - VEDL.NS failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2026-02-24 08:27:35,662 - INFO - No signals found.
+2026-02-24 08:30:30,696 - INFO - Starting Swing Scanner...
+2026-02-24 08:30:32,047 - ERROR - ADANIENSOL.NS failed: Data must be 1-dimensional, got ndarray of shape (247, 1) instead
+2026-02-24 08:30:32,048 - ERROR - ^NSEI failed: Data must be 1-dimensional, got ndarray of shape (247, 1) instead
+2026-02-24 08:30:32,049 - ERROR - ADANIENT.NS failed: Data must be 1-dimensional, got ndarray of shape (247, 1) instead
+2026-02-24 08:30:32,050 - ERROR - ADANIGREEN.NS failed: Data must be 1-dimensional, got ndarray of shape (247, 1) instead
+2026-02-24 08:30:32,052 - ERROR - ^NSEBANK failed: Data must be 1-dimensional, got ndarray of shape (247, 1) instead
+2026-02-24 08:30:32,053 - ERROR - ^BSESN failed: Data must be 1-dimensional, got ndarray of shape (247, 1) instead
+2026-02-24 08:30:32,055 - ERROR - ADANIPORTS.NS failed: Data must be 1-dimensional, got ndarray of shape (247, 1) instead
+2026-02-24 08:30:32,057 - ERROR - ABB.NS failed: Data must be 1-dimensional, got ndarray of shape (247, 1) instead
+2026-02-24 08:30:32,280 - ERROR - ASIANPAINT.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,286 - ERROR - BAJAJHFL.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,289 - ERROR - APOLLOHOSP.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,290 - ERROR - BAJAJFINSV.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,294 - ERROR - AXISBANK.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,296 - ERROR - AMBUJACEM.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,299 - ERROR - BAJAJ-AUTO.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,301 - ERROR - ADANIPOWER.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,374 - ERROR - BANKBARODA.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,376 - ERROR - BEL.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,378 - ERROR - BAJAJHLDNG.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,439 - ERROR - CANBK.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,446 - ERROR - CHOLAFIN.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,447 - ERROR - CGPOWER.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,517 - ERROR - BPCL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:30:32,518 - ERROR - BHARTIARTL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:30:32,519 - ERROR - BOSCHLTD.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:30:32,519 - ERROR - BAJFINANCE.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:30:32,519 - ERROR - BRITANNIA.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:30:32,614 - ERROR - ENRIN.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,618 - ERROR - COALINDIA.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,626 - ERROR - CIPLA.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,635 - ERROR - DMART.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,637 - ERROR - DIVISLAB.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,641 - ERROR - EICHERMOT.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,643 - ERROR - DRREDDY.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,646 - ERROR - DLF.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,681 - ERROR - HAL.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,689 - ERROR - GODREJCP.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:30:32,691 - ERROR - HCLTECH.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:30:32,693 - ERROR - ETERNAL.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,695 - ERROR - GAIL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:30:32,789 - ERROR - HINDZINC.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,799 - ERROR - GRASIM.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,802 - ERROR - HINDALCO.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,807 - ERROR - HAVELLS.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,809 - ERROR - HDFCLIFE.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,813 - ERROR - HDFCBANK.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,818 - ERROR - HINDUNILVR.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,818 - ERROR - HYUNDAI.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,903 - ERROR - IOC.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,942 - ERROR - IRFC.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,945 - ERROR - INDIGO.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,949 - ERROR - JINDALSTEL.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,953 - ERROR - ICICIBANK.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:32,960 - ERROR - ICICIGI.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:30:32,960 - ERROR - ITC.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:30:33,066 - ERROR - LICI.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,072 - ERROR - INFY.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,078 - ERROR - KOTAKBANK.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,080 - ERROR - JSWSTEEL.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,083 - ERROR - JIOFIN.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,136 - ERROR - INDHOTEL.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,140 - ERROR - LODHA.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,148 - ERROR - KWIL.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,152 - ERROR - LT.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,155 - ERROR - LTIM.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,166 - ERROR - M&M.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,170 - ERROR - MARUTI.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,172 - ERROR - MAXHEALTH.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,174 - ERROR - JSWENERGY.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,211 - ERROR - PIDILITIND.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,215 - ERROR - MAZDOCK.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,222 - ERROR - PFC.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,224 - ERROR - NTPC.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,225 - ERROR - NESTLEIND.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,226 - ERROR - NAUKRI.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,228 - ERROR - ONGC.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,299 - ERROR - MOTHERSON.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,303 - ERROR - POWERGRID.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,310 - ERROR - SBIN.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,313 - ERROR - SBILIFE.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,315 - ERROR - PNB.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,320 - ERROR - RECLTD.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,322 - ERROR - RELIANCE.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,325 - ERROR - SHREECEM.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,372 - ERROR - TATASTEEL.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,373 - ERROR - TCS.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,380 - ERROR - SIEMENS.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,382 - ERROR - SUNPHARMA.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,383 - ERROR - TATACONSUM.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,386 - ERROR - TATAPOWER.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,388 - ERROR - SHRIRAMFIN.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,390 - ERROR - SOLARINDS.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,434 - ERROR - ULTRACEMCO.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,443 - ERROR - TVSMOTOR.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,446 - ERROR - TRENT.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,448 - ERROR - TORNTPHARM.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,450 - ERROR - TMPV.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,452 - ERROR - UNITDSPR.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,453 - ERROR - TITAN.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,454 - ERROR - TECHM.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,478 - ERROR - ZYDUSLIFE.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,481 - ERROR - WIPRO.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,489 - ERROR - VBL.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,491 - ERROR - VEDL.NS failed: Data must be 1-dimensional, got ndarray of shape (248, 1) instead
+2026-02-24 08:30:33,492 - INFO - No signals found.
+2026-02-24 08:32:19,883 - INFO - Starting Swing Scanner...
+2026-02-24 08:32:21,391 - ERROR - ADANIPORTS.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,391 - ERROR - ^NSEBANK failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,392 - ERROR - ADANIENSOL.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,394 - ERROR - ^BSESN failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,398 - ERROR - ^NSEI failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,398 - ERROR - ADANIENT.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,401 - ERROR - ADANIGREEN.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,403 - ERROR - ABB.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,790 - ERROR - BAJAJHFL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:21,791 - ERROR - APOLLOHOSP.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:21,792 - ERROR - AMBUJACEM.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:21,792 - ERROR - ASIANPAINT.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:21,792 - ERROR - BAJAJ-AUTO.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:21,792 - ERROR - AXISBANK.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:21,793 - ERROR - ADANIPOWER.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:21,793 - ERROR - BAJAJFINSV.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:21,904 - ERROR - BEL.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,914 - ERROR - BRITANNIA.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,918 - ERROR - BANKBARODA.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,920 - ERROR - BAJAJHLDNG.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,942 - ERROR - BAJFINANCE.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,953 - ERROR - CHOLAFIN.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,953 - ERROR - BHARTIARTL.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,955 - ERROR - BOSCHLTD.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,981 - ERROR - CGPOWER.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,981 - ERROR - CIPLA.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:21,986 - ERROR - COALINDIA.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,014 - ERROR - BPCL.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,016 - ERROR - CANBK.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,020 - ERROR - DLF.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,021 - ERROR - DIVISLAB.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,246 - ERROR - DRREDDY.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,249 - ERROR - DMART.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,251 - ERROR - EICHERMOT.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,255 - ERROR - GODREJCP.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,257 - ERROR - GRASIM.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,258 - ERROR - GAIL.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,260 - ERROR - ETERNAL.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,276 - ERROR - ENRIN.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,300 - ERROR - HINDUNILVR.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:22,316 - ERROR - HDFCLIFE.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:22,325 - ERROR - HAVELLS.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:22,328 - ERROR - HINDALCO.NS failed: Length of values (744) does not match length of index (248)
+2026-02-24 08:32:22,331 - ERROR - HCLTECH.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:22,335 - ERROR - HINDZINC.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:22,336 - ERROR - HDFCBANK.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,472 - ERROR - HAL.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,480 - ERROR - INDIGO.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,482 - ERROR - ICICIBANK.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,485 - ERROR - INDHOTEL.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,490 - ERROR - IOC.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,492 - ERROR - INFY.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,494 - ERROR - HYUNDAI.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,496 - ERROR - ICICIGI.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,557 - ERROR - KWIL.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,567 - ERROR - JINDALSTEL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:22,570 - ERROR - ITC.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,575 - ERROR - KOTAKBANK.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:22,576 - ERROR - JIOFIN.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:22,580 - ERROR - JSWSTEEL.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:22,589 - ERROR - JSWENERGY.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:22,615 - ERROR - LODHA.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,615 - ERROR - IRFC.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,620 - ERROR - LICI.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,623 - ERROR - LTIM.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,744 - ERROR - NESTLEIND.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,753 - ERROR - MARUTI.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,753 - ERROR - NAUKRI.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,753 - ERROR - MOTHERSON.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,756 - ERROR - MAZDOCK.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,759 - ERROR - LT.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,763 - ERROR - MAXHEALTH.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,768 - ERROR - M&M.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,817 - ERROR - PFC.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,827 - ERROR - RECLTD.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:22,829 - ERROR - NTPC.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,833 - ERROR - POWERGRID.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:22,833 - ERROR - ONGC.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,834 - ERROR - RELIANCE.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:22,835 - ERROR - PNB.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,837 - ERROR - PIDILITIND.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:22,889 - ERROR - SOLARINDS.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,898 - ERROR - SHRIRAMFIN.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,903 - ERROR - SBIN.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,907 - ERROR - SIEMENS.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,911 - ERROR - SBILIFE.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:22,914 - ERROR - SHREECEM.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:23,005 - ERROR - TITAN.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:23,012 - ERROR - TCS.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:23,015 - ERROR - TATACONSUM.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:23,017 - ERROR - TATAPOWER.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:23,019 - ERROR - TATASTEEL.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:23,019 - ERROR - TMPV.NS failed: Length of values (496) does not match length of index (248)
+2026-02-24 08:32:23,069 - ERROR - VBL.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:23,084 - ERROR - TRENT.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:23,090 - ERROR - TVSMOTOR.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:23,093 - ERROR - TECHM.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:23,100 - ERROR - SUNPHARMA.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:23,101 - ERROR - UNITDSPR.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:23,102 - ERROR - TORNTPHARM.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:23,215 - ERROR - ZYDUSLIFE.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:23,219 - ERROR - WIPRO.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:23,220 - ERROR - ULTRACEMCO.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:23,221 - ERROR - VEDL.NS failed: 'Series' object has no attribute 'flatten'
+2026-02-24 08:32:23,223 - INFO - No signals found.

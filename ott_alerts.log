@@ -1,0 +1,106 @@
+2026-02-23 10:20:17,798 - INFO - Loaded 104 symbols from watchlist
+2026-02-23 10:20:17,798 - INFO - Starting OTT Alert Server
+2026-02-23 10:20:17,798 - INFO - Market closed. Sleeping...
+2026-02-23 10:21:38,086 - INFO - Loaded 104 symbols from watchlist
+2026-02-23 10:21:38,086 - INFO - Starting OTT Alert Server
+2026-02-23 10:21:38,086 - INFO - Market closed. Sleeping...
+2026-02-23 10:36:38,087 - INFO - Market closed. Sleeping...
+2026-02-24 05:56:56,901 - INFO - Loaded 104 symbols from watchlist
+2026-02-24 05:56:56,902 - INFO - Starting OTT Alert Server
+2026-02-24 05:56:56,902 - INFO - Starting new scan...
+2026-02-24 05:57:00,447 - INFO - SELL - ICICIGI.NS @ ₹1925.70
+2026-02-24 05:57:01,463 - INFO - SELL - UNITDSPR.NS @ ₹1419.60
+2026-02-24 05:57:01,484 - INFO - BUY - ULTRACEMCO.NS @ ₹12990.00
+2026-02-24 05:57:02,316 - INFO - Telegram alert sent successfully
+2026-02-24 05:57:02,317 - INFO - Sleeping 900 seconds...
+
+2026-02-24 06:12:02,317 - INFO - Starting new scan...
+2026-02-24 06:12:02,562 - INFO - BUY - ADANIENSOL.NS @ ₹1008.45
+2026-02-24 06:12:03,734 - INFO - BUY - PFC.NS @ ₹418.60
+2026-02-24 06:12:04,899 - INFO - Telegram alert sent successfully
+2026-02-24 06:12:04,900 - INFO - Sleeping 900 seconds...
+
+2026-02-24 06:27:04,900 - INFO - Starting new scan...
+2026-02-24 06:27:06,762 - INFO - No signals this scan.
+2026-02-24 06:27:06,763 - INFO - Sleeping 900 seconds...
+
+2026-02-24 06:42:06,763 - INFO - Starting new scan...
+2026-02-24 06:42:08,258 - INFO - BUY - PFC.NS @ ₹415.40
+2026-02-24 06:42:09,419 - INFO - Telegram alert sent successfully
+2026-02-24 06:42:09,420 - INFO - Sleeping 900 seconds...
+
+2026-02-24 06:57:09,420 - INFO - Starting new scan...
+2026-02-24 06:57:09,840 - INFO - SELL - BAJAJFINSV.NS @ ₹2038.80
+2026-02-24 06:57:10,904 - INFO - BUY - PFC.NS @ ₹414.80
+2026-02-24 06:57:12,088 - INFO - Telegram alert sent successfully
+2026-02-24 06:57:12,088 - INFO - Sleeping 900 seconds...
+
+2026-02-24 07:12:12,089 - INFO - Starting new scan...
+2026-02-24 07:12:12,698 - INFO - BUY - BRITANNIA.NS @ ₹6150.50
+2026-02-24 07:12:12,839 - INFO - SELL - EICHERMOT.NS @ ₹7927.00
+2026-02-24 07:12:13,414 - INFO - SELL - LT.NS @ ₹4290.80
+2026-02-24 07:12:14,770 - INFO - Telegram alert sent successfully
+2026-02-24 07:12:14,770 - INFO - Sleeping 900 seconds...
+
+2026-02-24 07:27:14,770 - INFO - Starting new scan...
+2026-02-24 07:27:15,185 - INFO - SELL - ASIANPAINT.NS @ ₹2406.90
+2026-02-24 07:27:15,530 - INFO - SELL - EICHERMOT.NS @ ₹7938.00
+2026-02-24 07:27:16,062 - INFO - SELL - LT.NS @ ₹4272.10
+2026-02-24 07:27:16,400 - INFO - SELL - SOLARINDS.NS @ ₹13207.00
+2026-02-24 07:27:17,480 - INFO - Telegram alert sent successfully
+2026-02-24 07:27:17,480 - INFO - Sleeping 900 seconds...
+
+2026-02-24 07:42:17,480 - INFO - Starting new scan...
+2026-02-24 07:42:19,884 - INFO - No signals this scan.
+2026-02-24 07:42:19,884 - INFO - Sleeping 900 seconds...
+
+2026-02-24 07:57:19,884 - INFO - Starting new scan...
+2026-02-24 07:57:20,232 - INFO - BUY - ADANIENSOL.NS @ ₹1004.85
+2026-02-24 07:57:22,501 - INFO - Telegram alert sent successfully
+2026-02-24 07:57:22,501 - INFO - Sleeping 900 seconds...
+
+2026-02-24 08:52:35,922 - INFO - Loaded 104 symbols from watchlist
+2026-02-24 08:57:58,330 - INFO - Loaded 104 symbols from watchlist
+2026-02-24 09:01:01,563 - INFO - Loaded 104 symbols from watchlist
+2026-02-24 09:02:30,301 - INFO - Loaded 104 symbols from watchlist
+2026-02-24 09:04:31,060 - INFO - Loaded 104 symbols from watchlist
+2026-02-24 09:04:32,849 - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: ^NSEBANK.NS"}}}
+2026-02-24 09:04:32,851 - ERROR - $ABB.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:32,854 - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: ^BSESN.NS"}}}
+2026-02-24 09:04:32,855 - ERROR - $^NSEI.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:32,857 - ERROR - $ADANIENSOL.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:33,995 - ERROR - $ADANIENT.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:33,998 - ERROR - $ADANIPORTS.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:34,000 - ERROR - $ADANIGREEN.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:34,002 - ERROR - $^NSEBANK.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:34,003 - ERROR - $^BSESN.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:34,999 - ERROR - $AXISBANK.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:35,001 - ERROR - $ADANIPOWER.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:35,003 - ERROR - $APOLLOHOSP.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:35,005 - ERROR - $AMBUJACEM.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:35,006 - ERROR - $ASIANPAINT.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:35,937 - ERROR - $BAJAJHLDNG.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:35,940 - ERROR - $BAJAJFINSV.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:35,942 - ERROR - $BAJAJHFL.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:35,943 - ERROR - $BAJFINANCE.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:35,944 - ERROR - $BAJAJ-AUTO.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:36,903 - ERROR - $BEL.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:04:36,904 - ERROR - $BANKBARODA.NS.NS: possibly delisted; no price data found  (period=10d) (Yahoo error = "No data found, symbol may be delisted")
+2026-02-24 09:08:16,330 - INFO - Loaded 104 symbols from watchlist
+2026-02-24 09:12:34,542 - INFO - Loaded 104 symbols from watchlist
+2026-02-24 09:20:17,351 - INFO - Loaded 104 symbols from watchlist
+2026-02-24 09:20:17,351 - INFO - Starting OTT Alert Server
+2026-02-24 09:20:17,351 - INFO - Starting new scan...
+2026-02-24 09:20:19,238 - INFO - SELL - HDFCLIFE.NS @ ₹731.65
+2026-02-24 09:20:20,996 - INFO - Telegram alert sent successfully
+2026-02-24 09:20:20,996 - INFO - Sleeping 900 seconds...
+
+2026-02-24 09:24:10,495 - INFO - Loaded 104 symbols from watchlist
+2026-02-24 10:14:16,265 - INFO - Loaded 104 symbols from watchlist
+10:27:59 [WARNING] Market is closed. Use --no-market-check to scan anyway.
+2026-02-24 10:29:17,483 - INFO - Loaded 104 symbols from watchlist
+2026-02-24 10:29:17,483 - INFO - Starting OTT Alert Server
+2026-02-24 10:29:17,483 - INFO - Market closed. Sleeping...
+10:29:25 [WARNING] Market is closed. Use --no-market-check to scan anyway.
+10:34:44 [WARNING] Market is closed. Use --no-market-check to scan anyway.
+10:35:08 [INFO] Loaded 104 symbols from watchlist.csv
